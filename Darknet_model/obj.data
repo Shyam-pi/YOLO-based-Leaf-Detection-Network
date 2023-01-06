@@ -1,0 +1,4 @@
+classes = 1
+train = /content/gdrive/MyDrive/IIITB_intern/Leaf_dataset/train.txt
+names = /content/gdrive/MyDrive/IIITB_intern/Leaf_dataset/obj.names
+backup = /content/gdrive/MyDrive/IIITB_intern/Darknet_model/Weights
